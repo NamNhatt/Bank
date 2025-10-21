@@ -1,0 +1,72 @@
+# THÔNG TIN CHI TIẾT CÁC HẠNG THẺ TÍN DỤNG - NGÂN HÀNG ABC
+
+## 1. GIỚI THIỆU CHUNG VỀ THẺ TÍN DỤNG
+---
+### Thẻ tín dụng là gì?
+Thẻ tín dụng (Credit Card) là một công cụ thanh toán cho phép bạn "chi tiêu trước, trả tiền sau". Ngân hàng sẽ cấp cho bạn một hạn mức tín dụng (số tiền tối đa bạn có thể chi tiêu). Bạn có thể dùng thẻ để thanh toán tại các cửa hàng, nhà hàng, website trong và ngoài nước, và sau đó trả lại số tiền đã chi tiêu cho ngân hàng vào cuối kỳ sao kê.
+
+### Các thuật ngữ quan trọng
+- **Hạn mức tín dụng:** Số tiền tối đa bạn được phép chi tiêu qua thẻ.
+- **Sao kê hàng tháng:** Bảng tổng hợp các giao dịch của bạn trong một chu kỳ (thường là 30 ngày).
+- **Ngày thanh toán:** Hạn cuối cùng bạn phải trả lại tiền đã chi tiêu cho ngân hàng. Thường là 15-25 ngày sau ngày chốt sao kê.
+- **Thanh toán tối thiểu:** Số tiền ít nhất bạn phải trả để không bị tính phí phạt trả chậm. Tuy nhiên, nếu chỉ trả số tối thiểu, phần còn lại sẽ bắt đầu bị tính lãi suất.
+- **Lãi suất:** Sẽ được áp dụng trên số dư nợ còn lại nếu bạn không thanh toán toàn bộ dư nợ trước ngày đến hạn.
+
+## 2. SO SÁNH NHANH CÁC HẠNG THẺ
+---
+| Hạng thẻ   | Thu nhập tối thiểu (VNĐ/tháng) | Phí thường niên (VNĐ) | Tính năng nổi bật chính                             |
+|------------|---------------------------------|------------------------|----------------------------------------------------|
+| **Bronze** | Từ 5 triệu                      | 299.000                | Tích điểm cơ bản, miễn phí năm đầu              |
+| **Silver** | Từ 8 triệu                      | 499.000                | Hoàn tiền mọi chi tiêu, ưu đãi mua sắm           |
+| **Gold** | Từ 12 triệu                     | 899.000                | Hoàn tiền theo danh mục, trả góp 0%             |
+| **Platinum**| Từ 25 triệu                     | 1.499.000              | Dặm bay, phòng chờ sân bay, bảo hiểm du lịch     |
+
+## 3. THÔNG TIN CHI TIẾT TỪNG HẠNG THẺ
+---
+### ### Hạng BRONZE (Thẻ Đồng)
+- **Đối tượng:** Sinh viên mới ra trường, người mới đi làm, hoặc những người lần đầu mở thẻ tín dụng.
+- **Ưu đãi nổi bật:**
+    + Tích lũy 1 điểm thưởng cho mỗi 1.000 VNĐ chi tiêu. Điểm có thể đổi thành voucher mua sắm.
+    + Miễn phí phí thường niên năm đầu tiên không điều kiện.
+- **Biểu phí chi tiết:**
+    + **Phí thường niên:** 299.000 VNĐ/năm (miễn phí năm tiếp theo nếu chi tiêu đạt 30 triệu/năm).
+    + **Lãi suất:** 28%/năm.
+    + **Phí rút tiền mặt:** 4% trên số tiền giao dịch, tối thiểu 100.000 VNĐ.
+
+### ### Hạng SILVER (Thẻ Bạc)
+- **Đối tượng:** Nhân viên văn phòng có thu nhập ổn định.
+- **Ưu đãi nổi bật:**
+    + **Hoàn tiền 0.5%** không giới hạn cho mọi chi tiêu.
+    + Giảm giá đến 20% tại các đối tác ẩm thực, thời trang.
+- **Biểu phí chi tiết:**
+    + **Phí thường niên:** 499.000 VNĐ/năm (miễn phí năm tiếp theo nếu chi tiêu đạt 50 triệu/năm).
+    + **Lãi suất:** 26%/năm.
+    + **Phí rút tiền mặt:** 4% trên số tiền giao dịch, tối thiểu 100.000 VNĐ.
+
+### ### Hạng GOLD (Thẻ Vàng)
+- **Đối tượng:** Trưởng nhóm, quản lý cấp trung, những người thường xuyên mua sắm và chi tiêu cho gia đình.
+- **Ưu đãi nổi bật:**
+    + **Hoàn tiền đến 5%** cho các chi tiêu tại siêu thị (Co.opmart, BigC, Lotte Mart).
+    + **Hoàn tiền 1%** cho các danh mục ăn uống và giải trí.
+    + **Trả góp 0% lãi suất** linh hoạt cho các giao dịch từ 3 triệu đồng trở lên.
+- **Biểu phí chi tiết:**
+    + **Phí thường niên:** 899.000 VNĐ/năm (miễn phí năm tiếp theo nếu chi tiêu đạt 100 triệu/năm).
+    + **Lãi suất:** 24%/năm.
+    + **Phí rút tiền mặt:** 3.5% trên số tiền giao dịch, tối thiểu 100.000 VNĐ.
+
+### ### Hạng PLATINUM (Thẻ Bạch kim)
+- **Đối tượng:** Quản lý cấp cao, chủ doanh nghiệp, những người thường xuyên đi công tác, du lịch.
+- **Ưu đãi nổi bật:**
+    + **Tích lũy dặm bay Bông Sen Vàng:** Quy đổi 25.000 VNĐ chi tiêu = 1 dặm bay.
+    + **Miễn phí không giới hạn** quyền sử dụng hơn 1.000 phòng chờ sân bay quốc tế.
+    + **Tặng gói bảo hiểm du lịch toàn cầu** với quyền lợi lên đến 10.5 tỷ VNĐ.
+    + Dịch vụ hỗ trợ toàn cầu 24/7 (hỗ trợ đặt vé máy bay, khách sạn, nhà hàng).
+- **Biểu phí chi tiết:**
+    + **Phí thường niên:** 1.499.000 VNĐ/năm (miễn phí năm tiếp theo nếu chi tiêu đạt 150 triệu/năm).
+    + **Lãi suất:** 22%/năm.
+    + **Phí rút tiền mặt:** 3% trên số tiền giao dịch, tối thiểu 100.000 VNĐ.
+
+## 4. HƯỚNG DẪN CHUNG
+---
+- **Cách kích hoạt thẻ:** Gửi SMS `KICHHOAT <4 số cuối thẻ>` đến 8149 hoặc kích hoạt qua ứng dụng ABC Mobile Banking.
+- **Cách khóa thẻ khẩn cấp:** Đăng nhập vào ứng dụng ABC Mobile Banking và chọn "Khóa thẻ" hoặc gọi ngay hotline 1900 1234.

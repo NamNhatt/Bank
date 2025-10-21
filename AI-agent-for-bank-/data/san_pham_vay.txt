@@ -1,0 +1,77 @@
+# SẢN PHẨM VAY VỐN NGÂN HÀNG ABC
+
+## 1. CÁC KHÁI NIỆM VÀ QUY ĐỊNH CHUNG
+---
+### Giới thiệu
+Các sản phẩm vay vốn của Ngân hàng ABC được thiết kế để hỗ trợ các nhu cầu tài chính đa dạng của khách hàng, từ chi tiêu cá nhân, mua sắm tài sản lớn đến đầu tư kinh doanh.
+
+### Phương thức tính lãi suất
+- **Lãi suất trên dư nợ giảm dần:** Đây là phương thức phổ biến nhất. Tiền lãi hàng tháng sẽ được tính trên số tiền gốc thực tế mà bạn còn nợ sau khi đã trừ đi phần gốc đã trả trong các tháng trước. Điều này có nghĩa là số tiền lãi bạn trả sẽ giảm dần theo thời gian.
+- **Lãi suất trên dư nợ ban đầu:** Tiền lãi được tính dựa trên tổng số tiền bạn vay ban đầu và không thay đổi trong suốt thời gian vay.
+
+### Điều kiện vay vốn chung
+- Là công dân Việt Nam hoặc người nước ngoài có giấy phép cư trú hợp lệ.
+- Độ tuổi: Từ 22 đến 60 tuổi (đảm bảo tại thời điểm kết thúc khoản vay, khách hàng chưa quá 65 tuổi).
+- Có thu nhập ổn định và đủ khả năng trả nợ.
+- Lịch sử tín dụng tốt, không có nợ xấu tại bất kỳ tổ chức tín dụng nào.
+
+### Hồ sơ yêu cầu chung
+1.  **Giấy tờ pháp lý:** Căn cước công dân hoặc Hộ chiếu.
+2.  **Giấy tờ chứng minh cư trú:** Sổ hộ khẩu hoặc Giấy xác nhận tạm trú.
+3.  **Giấy tờ chứng minh thu nhập:** Hợp đồng lao động, sao kê lương 3-6 tháng gần nhất.
+4.  **Giấy tờ về mục đích vay:** Tùy thuộc vào sản phẩm vay (ví dụ: hợp đồng mua bán nhà, giấy báo giá xe).
+
+## 2. VAY TIÊU DÙNG TÍN CHẤP
+---
+### Mục đích
+Phục vụ các nhu cầu chi tiêu cá nhân không cần tài sản đảm bảo như: mua sắm đồ gia dụng, sửa chữa nhà cửa, du lịch, học tập, đám cưới.
+
+### Đặc điểm
+- **Không cần tài sản thế chấp:** Khoản vay được duyệt hoàn toàn dựa trên uy tín và thu nhập của khách hàng.
+- **Hạn mức vay:** Tối đa lên đến 15 lần thu nhập, không quá 500 triệu đồng.
+- **Thời hạn vay:** Linh hoạt từ 12 đến 60 tháng.
+- **Lãi suất:** Cạnh tranh, tính trên dư nợ giảm dần. Lãi suất cụ thể phụ thuộc vào điểm tín dụng của khách hàng.
+- **Giải ngân:** Nhanh chóng trong vòng 24-48 giờ làm việc.
+
+### Điều kiện
+- Thu nhập hàng tháng tối thiểu từ 7,000,000 VNĐ (nhận qua chuyển khoản).
+
+## 3. VAY MUA Ô TÔ
+---
+### Mục đích
+Hỗ trợ tài chính để khách hàng mua xe ô tô mới hoặc đã qua sử dụng.
+
+### Đặc điểm
+- **Tài sản đảm bảo:** Chính chiếc xe ô tô dự định mua.
+- **Hạn mức vay:** Lên đến 80% giá trị của chiếc xe.
+- **Thời hạn vay:** Tối đa lên đến 8 năm (96 tháng).
+- **Lãi suất:** Cực kỳ cạnh tranh, thường có các gói ưu đãi lãi suất cố định trong 1-3 năm đầu.
+
+### Điều kiện
+- Ngoài các điều kiện chung, khách hàng cần cung cấp hợp đồng mua bán hoặc giấy báo giá xe từ đại lý.
+
+## 4. VAY MUA NHÀ, ĐẤT (CHO VAY BẤT ĐỘNG SẢN)
+---
+### Mục đích
+Vay để mua nhà, mua đất, xây dựng hoặc sửa chữa nhà ở.
+
+### Đặc điểm
+- **Tài sản đảm bảo:** Chính bất động sản dự định mua hoặc một bất động sản khác thuộc sở hữu của khách hàng.
+- **Hạn mức vay:** Lên đến 85% giá trị của tài sản đảm bảo.
+- **Thời hạn vay:** Dài hạn, tối đa lên đến 30 năm (360 tháng).
+- **Lãi suất:** Thường có các gói lãi suất ưu đãi cố định trong thời gian dài (ví dụ 2-5 năm) để giúp khách hàng ổn định tài chính.
+
+### Điều kiện
+- Ngoài các điều kiện chung, khách hàng cần cung cấp giấy tờ pháp lý của bất động sản (sổ đỏ, sổ hồng).
+
+## 5. CÂU HỎI THƯỜNG GẶP VỀ VAY VỐN
+---
+### Nợ xấu là gì?
+- Nợ xấu là các khoản nợ quá hạn thanh toán trên 90 ngày. Thông tin này được lưu trữ trên hệ thống của Trung tâm Thông tin Tín dụng Quốc gia Việt Nam (CIC). Nếu có nợ xấu, bạn sẽ rất khó để được duyệt các khoản vay mới.
+
+### Tôi có thể trả nợ trước hạn không?
+- Bạn hoàn toàn có thể trả nợ trước hạn. Tuy nhiên, ngân hàng sẽ áp dụng một khoản phí trả nợ trước hạn, thường từ 1% đến 3% trên số tiền gốc trả trước. Mức phí này sẽ giảm dần theo thời gian và được quy định rõ trong hợp đồng tín dụng.
+
+### Quá trình duyệt vay mất bao lâu?
+- **Vay tín chấp:** Thường từ 1-2 ngày làm việc.
+- **Vay thế chấp (mua xe, mua nhà):** Thường từ 3-7 ngày làm việc do cần thêm thời gian để thẩm định tài sản đảm bảo.

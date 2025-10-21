@@ -1,0 +1,76 @@
+# SẢN PHẨM TÀI KHOẢN VÀ THẺ NGÂN HÀNG ABC
+
+## 1. TÀI KHOẢN THANH TOÁN
+---
+### Giới thiệu
+Tài khoản thanh toán là sản phẩm cốt lõi, phục vụ cho mọi nhu cầu giao dịch hàng ngày như nhận lương, chi tiêu, thanh toán hóa đơn. Nó là cửa ngõ để bạn sử dụng các sản phẩm khác của ngân hàng.
+
+### Lợi ích chính
+- Miễn phí chuyển tiền online trong và ngoài hệ thống qua ứng dụng ABC Mobile Banking.
+- Miễn phí quản lý tài khoản khi duy trì số dư trung bình hàng tháng từ 2,000,000 VNĐ trở lên.
+- Tự động thanh toán các hóa đơn điện, nước, internet, truyền hình cáp.
+- Dễ dàng liên kết với các ví điện tử phổ biến như MoMo, ZaloPay, ShopeePay.
+- Gửi tiền và rút tiền tiện lợi tại hàng nghìn ATM và chi nhánh trên toàn quốc.
+
+### Biểu phí
+- Phí quản lý tài khoản: 11,000 VNĐ/tháng (nếu không đạt số dư tối thiểu).
+- Phí thông báo biến động số dư qua SMS: 8,800 VNĐ/tháng.
+- Phí rút tiền tại ATM trong hệ thống ABC: Miễn phí.
+- Phí rút tiền tại ATM ngoài hệ thống: 3,300 VNĐ/giao dịch.
+
+### Lãi suất
+- Lãi suất không kỳ hạn áp dụng cho số dư trong tài khoản là 0.1%/năm.
+
+## 2. THẺ GHI NỢ NỘI ĐỊA (DEBIT CARD)
+---
+### Giới thiệu
+Thẻ ghi nợ nội địa ABC Napas được liên kết trực tiếp với tài khoản thanh toán của bạn. Bạn chi tiêu bao nhiêu, tiền sẽ trừ trực tiếp vào tài khoản bấy nhiêu. Thẻ được sử dụng để rút tiền và thanh toán tại các điểm chấp nhận thẻ trong lãnh thổ Việt Nam.
+
+### Hạn mức Giao dịch
+- Hạn mức rút tiền mặt tối đa tại ATM: 50,000,000 VNĐ/ngày.
+- Hạn mức chuyển khoản tối đa tại ATM: 100,000,000 VNĐ/ngày.
+- Hạn mức thanh toán tại các máy POS: 100,000,000 VNĐ/ngày.
+
+### Biểu phí
+- Phí phát hành lần đầu: Miễn phí.
+- Phí phát hành lại (do mất, hỏng): 55,000 VNĐ.
+- Phí thường niên: 66,000 VNĐ/năm.
+
+## 3. THẺ TÍN DỤNG QUỐC TẾ (CREDIT CARD)
+---
+### Giới thiệu
+Thẻ tín dụng cho phép bạn "chi tiêu trước, trả tiền sau" trong một hạn mức được cấp sẵn. Đây là công cụ thanh toán tiện lợi cho mọi giao dịch trong nước và quốc tế, đặc biệt là mua sắm online.
+
+### Dòng thẻ 1: ABC Visa Platinum (Dành cho khách hàng cao cấp)
+- **Đối tượng:** Khách hàng có thu nhập từ 20,000,000 VNĐ/tháng, thường xuyên đi du lịch, công tác.
+- **Ưu đãi nổi bật:**
+    + Hoàn tiền 1.5% không giới hạn cho mọi chi tiêu.
+    + Miễn phí sử dụng hơn 1,000 phòng chờ sân bay trên toàn thế giới.
+    + Tặng gói bảo hiểm du lịch toàn cầu trị giá lên đến 10 tỷ đồng.
+    + Tích lũy điểm thưởng để đổi dặm bay hoặc voucher nghỉ dưỡng.
+- **Biểu phí:**
+    + Phí thường niên: 1,500,000 VNĐ/năm.
+    + Lãi suất khi quá hạn thanh toán: 25%/năm.
+
+### Dòng thẻ 2: ABC Mastercard Gold (Dành cho nhu cầu mua sắm)
+- **Đối tượng:** Khách hàng có thu nhập từ 10,000,000 VNĐ/tháng.
+- **Ưu đãi nổi bật:**
+    + Hoàn tiền 5% cho các giao dịch tại siêu thị, cửa hàng tiện lợi (tối đa 300,000 VNĐ/tháng).
+    + Trả góp 0% lãi suất tại hàng trăm đối tác liên kết như FPT Shop, Nguyễn Kim, Shopee.
+    + Giảm giá đến 30% tại các nhà hàng, quán cafe đối tác.
+- **Biểu phí:**
+    + Phí thường niên: 800,000 VNĐ/năm (miễn phí năm đầu nếu có 3 giao dịch trong 30 ngày đầu).
+    + Lãi suất khi quá hạn thanh toán: 27%/năm.
+
+## 4. HƯỚNG DẪN CHUNG VỀ THẺ
+---
+### Cách kích hoạt thẻ
+- **Cách 1 (SMS):** Soạn tin nhắn theo cú pháp `KICHHOAT <4 số cuối thẻ>` gửi đến tổng đài 8149.
+- **Cách 2 (Ứng dụng):** Đăng nhập vào ABC Mobile Banking, vào mục "Dịch vụ thẻ" và chọn "Kích hoạt thẻ".
+
+### Cách khóa thẻ khẩn cấp khi bị mất
+- **Cách 1 (Nhanh nhất):** Đăng nhập vào ABC Mobile Banking, chọn thẻ cần khóa và gạt nút "Khóa thẻ". Thẻ sẽ bị khóa ngay lập tức.
+- **Cách 2 (Gọi tổng đài):** Gọi đến hotline 24/7 của chúng tôi theo số 1900 1234 và yêu cầu khóa thẻ.
+
+### Cách lấy lại mã PIN
+- Vì lý do bảo mật, ngân hàng không cấp lại mã PIN cũ. Bạn vui lòng mang theo Căn cước công dân đến chi nhánh gần nhất để yêu cầu cấp mã PIN mới.

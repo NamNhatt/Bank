@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+google-generativeai
+langchain-google-genai
+langchain
+pypdf
+faiss-cpu
+langchain-community
+unstructured
+libmagic
+langchain-ollama
+chromadb
+Pillow
+SpeechRecognition
+PyAudio

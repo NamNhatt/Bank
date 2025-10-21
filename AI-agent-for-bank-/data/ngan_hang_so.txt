@@ -1,0 +1,73 @@
+# DỊCH VỤ NGÂN HÀNG SỐ NGÂN HÀNG ABC
+
+## 1. GIỚI THIỆU CHUNG
+---
+### Ngân hàng số là gì?
+Ngân hàng số (Digital Banking) của ABC bao gồm hai nền tảng chính:
+- **ABC Mobile Banking:** Ứng dụng di động cài đặt trên điện thoại thông minh (iOS và Android).
+- **ABC Internet Banking:** Dịch vụ trên nền tảng website, truy cập bằng trình duyệt máy tính.
+Cả hai nền tảng cho phép bạn thực hiện gần như mọi giao dịch ngân hàng mà không cần đến quầy.
+
+### Lợi ích
+- **Tiện lợi:** Giao dịch mọi lúc, mọi nơi, 24/7, kể cả ngày lễ và cuối tuần.
+- **Nhanh chóng:** Các giao dịch chuyển tiền, thanh toán được thực hiện ngay lập tức.
+- **Tiết kiệm:** Miễn phí nhiều loại giao dịch, lãi suất gửi tiết kiệm online cao hơn tại quầy.
+- **An toàn:** Nhiều lớp bảo mật tiên tiến giúp bảo vệ tài khoản của bạn.
+
+## 2. CÁC TÍNH NĂNG CHÍNH
+---
+### Truy vấn thông tin
+- Kiểm tra số dư tài khoản thanh toán, tài khoản tiết kiệm.
+- Xem lịch sử giao dịch chi tiết trong 3 tháng gần nhất.
+- Xem sao kê thẻ tín dụng, dư nợ và các khoản vay.
+
+### Chuyển tiền
+- Chuyển tiền nội bộ trong hệ thống ABC.
+- Chuyển tiền nhanh 24/7 liên ngân hàng qua số tài khoản hoặc số thẻ.
+- Chuyển tiền bằng mã QR (VietQR).
+
+### Thanh toán
+- Thanh toán hóa đơn tự động cho hơn 300 nhà cung cấp dịch vụ (điện, nước, internet, truyền hình...).
+- Thanh toán bằng mã QR tại các cửa hàng, siêu thị, nhà hàng.
+- Nạp tiền điện thoại trả trước và trả sau.
+
+### Dịch vụ Thẻ
+- Kích hoạt thẻ mới.
+- Khóa/Mở khóa thẻ (ghi nợ và tín dụng) khẩn cấp.
+- Xem thông tin thẻ, sao kê, và quản lý hạn mức chi tiêu.
+- Đăng ký trả góp cho các giao dịch thẻ tín dụng.
+
+### Tiết kiệm Online
+- Mở sổ tiết kiệm mới với lãi suất ưu đãi.
+- Tất toán (rút tiền) sổ tiết kiệm khi đáo hạn hoặc trước hạn.
+- Thay đổi phương thức tái tục cho sổ tiết kiệm.
+
+## 3. HƯỚNG DẪN BẢO MẬT (RẤT QUAN TRỌNG)
+---
+### Quy tắc Vàng về Mật khẩu và OTP
+- **TUYỆT ĐỐI KHÔNG** chia sẻ mật khẩu đăng nhập, mã PIN thẻ, hoặc mã OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên ngân hàng.
+- Đặt mật khẩu mạnh, có độ dài từ 8 ký tự trở lên, bao gồm chữ hoa, chữ thường, số và ký tự đặc biệt.
+- Smart OTP/Token OTP là phương thức xác thực an toàn nhất. Tuyệt đối không cung cấp mã này cho người khác.
+
+### Nhận diện Lừa đảo (Phishing)
+- **KHÔNG** nhấn vào các đường link lạ được gửi qua SMS, email, Zalo, Facebook với nội dung như "Bạn đã trúng thưởng", "Tài khoản của bạn bị khóa, cần xác thực ngay"...
+- Luôn kiểm tra kỹ địa chỉ website trước khi đăng nhập. Địa chỉ Internet Banking chính thức của ngân hàng ABC phải bắt đầu bằng `https://ib.abc.com.vn`.
+- Ngân hàng **KHÔNG BAO GIỜ** yêu cầu bạn cung cấp thông tin đăng nhập và mật khẩu qua các đường link.
+
+### Bảo vệ Thiết bị
+- Luôn đặt mật khẩu khóa màn hình cho điện thoại và máy tính.
+- Kích hoạt tính năng đăng nhập bằng sinh trắc học (vân tay, Face ID) cho ứng dụng ABC Mobile Banking.
+- Chỉ tải ứng dụng từ các kho ứng dụng chính thức (Apple App Store và Google Play Store).
+
+## 4. XỬ LÝ SỰ CỐ THƯỜNG GẶP
+---
+### Quên mật khẩu đăng nhập
+- Sử dụng chức năng "Quên mật khẩu" ngay trên màn hình đăng nhập của ứng dụng hoặc website.
+- Hệ thống sẽ yêu cầu bạn xác thực một vài thông tin cá nhân (số CMND/CCCD, số thẻ) và gửi mã xác thực qua SMS để bạn tạo mật khẩu mới.
+
+### Tài khoản bị khóa
+- Nguyên nhân: Nhập sai mật khẩu đăng nhập quá 5 lần.
+- Cách xử lý: Tài khoản sẽ tự động mở lại sau 24 giờ. Nếu cần sử dụng ngay, vui lòng mang theo CMND/CCCD đến chi nhánh gần nhất để được hỗ trợ.
+
+### Chuyển tiền nhầm tài khoản
+- Ngay lập tức liên hệ tổng đài hotline 1900 1234 để được hướng dẫn. Ngân hàng sẽ hỗ trợ bạn liên hệ với ngân hàng của người nhận để yêu cầu hoàn trả, tuy nhiên việc hoàn trả phụ thuộc hoàn toàn vào sự hợp tác của người nhận tiền.

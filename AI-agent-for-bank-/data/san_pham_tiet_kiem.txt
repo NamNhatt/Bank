@@ -1,0 +1,56 @@
+# SẢN PHẨM TIẾT KIỆM NGÂN HÀNG ABC
+
+## 1. TỔNG QUAN
+---
+### Giới thiệu
+Gửi tiết kiệm là hình thức đầu tư an toàn và ổn định nhất, giúp bạn tích lũy và sinh lời từ số tiền nhàn rỗi của mình. Ngân hàng ABC cung cấp đa dạng các sản phẩm tiết kiệm với lãi suất cạnh tranh và kỳ hạn linh hoạt.
+
+### Các hình thức gửi
+- **Tại quầy:** Giao dịch trực tiếp tại các chi nhánh/phòng giao dịch của Ngân hàng ABC trên toàn quốc.
+- **Online:** Giao dịch tiện lợi, mọi lúc mọi nơi qua ứng dụng ABC Mobile Banking hoặc Internet Banking. Lãi suất gửi tiết kiệm online thường cao hơn so với tại quầy.
+
+### Số tiền gửi tối thiểu
+- Gửi tại quầy: Tối thiểu 1,000,000 VNĐ.
+- Gửi online: Tối thiểu 500,000 VNĐ.
+
+## 2. BẢNG LÃI SUẤT TIẾT KIỆM CÁ NHÂN (LÃNH LÃI CUỐI KỲ)
+---
+_Lưu ý: Bảng lãi suất này có hiệu lực từ ngày 01/10/2025 và có thể thay đổi theo chính sách của ngân hàng. Lãi suất được tính theo %/năm._
+
+| Kỳ hạn       | Lãi suất tại quầy | Lãi suất Online (+Ưu đãi) |
+|--------------|--------------------|----------------------------|
+| Không kỳ hạn | 0.2%               | (Không áp dụng)            |
+| 1 tháng      | 3.2%               | 3.5%                       |
+| 3 tháng      | 3.5%               | 3.8%                       |
+| 6 tháng      | 4.8%               | 5.1%                       |
+| 9 tháng      | 4.9%               | 5.2%                       |
+| 12 tháng     | 5.6%               | 5.9%                       |
+| 18 tháng     | 5.7%               | 6.0%                       |
+| 24 tháng     | 5.8%               | 6.1%                       |
+| 36 tháng     | 5.8%               | 6.1%                       |
+
+## 3. CÁC QUY ĐỊNH QUAN TRỌNG
+---
+### Cách tính lãi
+- Công thức tính lãi suất cuối kỳ:
+  **Số tiền lãi = Số tiền gửi x Lãi suất (%/năm) / 365 x Số ngày gửi thực tế**
+
+### Rút tiền trước hạn (Tất toán trước hạn)
+- Khi bạn cần rút tiền trước ngày đáo hạn của sổ tiết kiệm, bạn có thể thực hiện tất toán bất cứ lúc nào.
+- **Lãi suất áp dụng:** Toàn bộ số tiền gửi của bạn sẽ được hưởng mức lãi suất **không kỳ hạn** (hiện là 0.2%/năm), tính trên số ngày gửi thực tế. Bạn sẽ không được hưởng mức lãi suất cao như đã cam kết ban đầu.
+
+### Khi sổ tiết kiệm đáo hạn
+- **Nếu khách hàng không đến tất toán:**
+    + **Đối với sổ tiết kiệm không tự động tái tục:** Toàn bộ tiền gốc và lãi sẽ được chuyển sang tài khoản thanh toán của bạn.
+    + **Đối với sổ tiết kiệm có tự động tái tục:** Toàn bộ tiền gốc và lãi sẽ được tự động gộp lại và chuyển sang một kỳ hạn mới tương đương với kỳ hạn cũ. Lãi suất áp dụng sẽ là lãi suất có hiệu lực tại thời điểm tái tục.
+- Bạn có thể thay đổi cài đặt "Tự động tái tục" bất cứ lúc nào trên ứng dụng ABC Mobile Banking.
+
+## 4. CÁC SẢN PHẨM TIẾT KIỆM KHÁC
+---
+### Tiết kiệm Lĩnh lãi Định kỳ
+- **Giới thiệu:** Cho phép bạn nhận lãi hàng tháng, hàng quý thay vì đợi đến cuối kỳ. Phù hợp với khách hàng có nhu cầu chi tiêu thường xuyên từ tiền lãi.
+- **Lãi suất:** Thường thấp hơn một chút so với hình thức lĩnh lãi cuối kỳ.
+
+### Tiết kiệm Tích lũy (Gửi góp)
+- **Giới thiệu:** Cho phép bạn gửi góp thêm tiền vào sổ tiết kiệm một cách linh hoạt hàng tháng mà không cần mở sổ mới. Phù hợp cho việc đặt mục tiêu tài chính dài hạn như mua nhà, mua xe, cho con du học.
+- **Cách thức:** Bạn chỉ cần đăng ký một lần, ngân hàng sẽ tự động trích tiền từ tài khoản thanh toán của bạn để gửi góp vào sổ tiết kiệm theo ngày bạn đã chọn.

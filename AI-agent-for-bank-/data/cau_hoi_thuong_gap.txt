@@ -1,0 +1,38 @@
+# CÁC CÂU HỎI THƯỜNG GẶP (FAQ) - NGÂN HÀNG ABC
+
+## Câu hỏi: Giờ làm việc của các chi nhánh ngân hàng là gì?
+Trả lời:
+Các chi nhánh và phòng giao dịch của Ngân hàng ABC trên toàn quốc làm việc từ thứ Hai đến thứ Sáu, và sáng thứ Bảy.
+- Từ thứ Hai đến thứ Sáu: Sáng từ 8:00 đến 12:00, Chiều từ 13:00 đến 17:00.
+- Sáng thứ Bảy: Từ 8:00 đến 12:00.
+Chủ nhật và các ngày lễ, Tết ngân hàng không làm việc.
+
+## Câu hỏi: Tôi phải làm gì khi bị mất thẻ (ATM, Visa, Mastercard)?
+Trả lời:
+Khi phát hiện mất thẻ, bạn cần bình tĩnh và thực hiện ngay lập tức một trong hai cách sau để khóa thẻ khẩn cấp, tránh rủi ro mất tiền:
+1.  **Nhanh nhất:** Đăng nhập vào ứng dụng ABC Mobile Banking, chọn thẻ bị mất và chọn chức năng "Khóa thẻ khẩn cấp".
+2.  **Gọi tổng đài:** Liên hệ hotline 24/7 của chúng tôi theo số 1900 1234 để yêu cầu khóa thẻ ngay lập tức.
+Sau khi đã khóa thẻ an toàn, bạn vui lòng mang theo Căn cước công dân đến chi nhánh gần nhất để làm thủ tục phát hành lại thẻ mới.
+
+## Câu hỏi: SWIFT Code của ngân hàng ABC là gì?
+Trả lời:
+SWIFT Code của Ngân hàng ABC là **ABCVNVVX**. Mã này được sử dụng khi bạn hoặc người thân của bạn cần thực hiện giao dịch chuyển tiền từ một ngân hàng ở nước ngoài về tài khoản của bạn tại Ngân hàng ABC.
+
+## Câu hỏi: Tôi phải làm gì khi bị máy ATM nuốt thẻ?
+Trả lời:
+1.  Bình tĩnh chờ đợi khoảng 1-2 phút xem máy có nhả thẻ ra không.
+2.  Ghi lại mã số của trụ ATM (thường được dán trên máy) và địa chỉ chính xác của cây ATM đó.
+3.  Gọi ngay đến số hotline được dán trên trụ ATM hoặc tổng đài 1900 1234 của chúng tôi để thông báo sự cố và yêu cầu khóa thẻ tạm thời để đảm bảo an toàn.
+4.  Nhân viên ngân hàng sẽ hướng dẫn bạn thủ tục để nhận lại thẻ. Thông thường bạn sẽ cần mang theo Căn cước công dân đến chi nhánh quản lý cây ATM đó sau 1-2 ngày làm việc.
+
+## Câu hỏi: Số tổng đài (hotline) chăm sóc khách hàng của ngân hàng là gì?
+Trả lời:
+Tổng đài chăm sóc khách hàng 24/7 của Ngân hàng ABC là **1900 1234**. Bạn có thể liên hệ số này để được hỗ trợ về mọi vấn đề như khóa thẻ, kiểm tra thông tin, báo cáo sự cố và các thắc mắc khác.
+
+## Câu hỏi: Tôi muốn cập nhật thông tin cá nhân (số điện thoại, CCCD mới) thì phải làm sao?
+Trả lời:
+Để đảm bảo tính bảo mật, việc cập nhật thông tin cá nhân quan trọng cần được thực hiện trực tiếp tại quầy. Bạn vui lòng mang theo Căn cước công dân mới của mình đến chi nhánh/phòng giao dịch gần nhất của Ngân hàng ABC để được giao dịch viên hỗ trợ cập nhật.
+
+## Câu hỏi: Tại sao tài khoản của tôi bị trừ phí duy trì hàng tháng?
+Trả lời:
+Tài khoản thanh toán của bạn sẽ được miễn phí quản lý (phí duy trì) nếu bạn duy trì số dư bình quân trong tháng từ 2,000,000 VNĐ trở lên. Nếu số dư bình quân thấp hơn mức này, ngân hàng sẽ thu phí là 11,000 VNĐ/tháng theo biểu phí đã quy định.

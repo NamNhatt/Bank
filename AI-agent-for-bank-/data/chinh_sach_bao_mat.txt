@@ -1,0 +1,50 @@
+# CHÍNH SÁCH BẢO MẬT DỮ LIỆU CÁ NHÂN - NGÂN HÀNG ABC
+
+## 1. LỜI CAM KẾT
+---
+Ngân hàng Thương mại Cổ phần ABC ("Ngân hàng ABC", "chúng tôi") cam kết tôn trọng và bảo vệ sự riêng tư cũng như dữ liệu cá nhân của khách hàng ("bạn"). Chính sách này giải thích cách chúng tôi thu thập, sử dụng, lưu trữ và bảo vệ thông tin của bạn khi bạn sử dụng các sản phẩm, dịch vụ của chúng tôi. Chúng tôi tuân thủ nghiêm ngặt các quy định của pháp luật Việt Nam về bảo vệ dữ liệu cá nhân, bao gồm Nghị định 13/2023/NĐ-CP.
+
+## 2. CÁC LOẠI THÔNG TIN CHÚNG TÔI THU THẬP
+---
+Chúng tôi có thể thu thập các loại thông tin sau:
+- **Thông tin định danh cá nhân:** Họ và tên, ngày sinh, giới tính, quốc tịch, số Căn cước công dân/Hộ chiếu, địa chỉ liên lạc, số điện thoại, email.
+- **Thông tin giao dịch:** Số tài khoản, số dư, lịch sử giao dịch, thông tin thẻ, chi tiết các khoản vay và khoản tiết kiệm.
+- **Thông tin kỹ thuật:** Địa chỉ IP, loại trình duyệt, loại thiết bị, hệ điều hành khi bạn truy cập các nền tảng ngân hàng số của chúng tôi.
+- **Thông tin khác:** Các thông tin bạn cung cấp khi liên hệ với bộ phận chăm sóc khách hàng (cuộc gọi có thể được ghi âm), hoặc khi tham gia các cuộc khảo sát của chúng tôi.
+
+## 3. MỤC ĐÍCH THU THẬP VÀ SỬ DỤNG THÔNG TIN
+---
+Chúng tôi sử dụng thông tin của bạn cho các mục đích hợp pháp sau:
+- **Cung cấp Dịch vụ:** Mở tài khoản, xử lý giao dịch, phát hành thẻ, duyệt khoản vay và cung cấp các sản phẩm, dịch vụ khác mà bạn yêu cầu.
+- **Tuân thủ Pháp luật:** Thực hiện các nghĩa vụ định danh khách hàng (KYC), phòng chống rửa tiền (AML) theo quy định của Ngân hàng Nhà nước và pháp luật Việt Nam.
+- **Quản lý Rủi ro:** Đánh giá mức độ tín nhiệm, quản lý rủi ro tín dụng và ngăn chặn gian lận.
+- **Cải thiện Dịch vụ:** Phân tích dữ liệu để hiểu rõ hơn nhu cầu của khách hàng, từ đó cải tiến và phát triển các sản phẩm, dịch vụ mới.
+- **Hỗ trợ và Liên lạc:** Gửi các thông báo quan trọng về tài khoản, giao dịch, các thay đổi chính sách, và hỗ trợ khi bạn có yêu cầu.
+- **Tiếp thị:** Gửi thông tin về các sản phẩm, dịch vụ và chương trình khuyến mãi mới (chỉ khi bạn đã đồng ý nhận thông tin).
+
+## 4. CÁCH CHÚNG TÔI BẢO VỆ THÔNG TIN CỦA BẠN
+---
+Bảo vệ dữ liệu của bạn là ưu tiên hàng đầu của chúng tôi. Chúng tôi áp dụng các biện pháp bảo mật đa lớp:
+- **Biện pháp Kỹ thuật:** Mã hóa dữ liệu đường truyền (SSL/TLS) và dữ liệu lưu trữ, hệ thống tường lửa, hệ thống phát hiện và ngăn chặn xâm nhập.
+- **Biện pháp Tổ chức:** Quy định nghiêm ngặt về quyền truy cập dữ liệu, chỉ những nhân viên có phận sự mới được phép truy cập vào thông tin của bạn. Chúng tôi thường xuyên tổ chức đào tạo về an toàn thông tin cho nhân viên.
+- **Biện pháp Vật lý:** Các trung tâm dữ liệu của chúng tôi được bảo vệ nghiêm ngặt 24/7.
+
+## 5. VIỆC CHIA SẺ THÔNG TIN
+---
+Chúng tôi **KHÔNG BÁN** dữ liệu cá nhân của bạn cho bất kỳ bên thứ ba nào.
+Chúng tôi chỉ chia sẻ thông tin của bạn trong các trường hợp sau:
+- **Khi được pháp luật yêu cầu:** Cung cấp cho các cơ quan nhà nước có thẩm quyền (như Tòa án, Viện kiểm sát, Cơ quan điều tra) khi có yêu cầu hợp pháp.
+- **Cho các đối tác xử lý dịch vụ:** Chia sẻ thông tin cần thiết cho các đối tác giúp chúng tôi cung cấp dịch vụ (ví dụ: công ty in thẻ, công ty chuyển phát nhanh), với điều kiện các đối tác này phải tuân thủ các thỏa thuận bảo mật nghiêm ngặt.
+- **Khi có sự đồng ý của bạn:** Khi bạn yêu cầu hoặc đồng ý cho chúng tôi chia sẻ thông tin.
+
+## 6. QUYỀN CỦA KHÁCH HÀNG
+---
+Bạn có quyền:
+- Yêu cầu truy cập và xem lại thông tin cá nhân của mình.
+- Yêu cầu chúng tôi sửa chữa, cập nhật các thông tin không chính xác.
+- Rút lại sự đồng ý cho việc xử lý dữ liệu cho mục đích tiếp thị.
+- Khiếu nại nếu cho rằng quyền riêng tư của mình bị vi phạm.
+
+## 7. LIÊN HỆ
+---
+Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này, vui lòng liên hệ với chúng tôi qua tổng đài 1900 1234 hoặc đến chi nhánh gần nhất.

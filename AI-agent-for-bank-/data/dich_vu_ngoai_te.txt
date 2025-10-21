@@ -1,0 +1,60 @@
+# DỊCH VỤ NGOẠI TỆ (NGOẠI HỐI) - NGÂN HÀNG ABC
+
+## 1. GIỚI THIỆU CHUNG
+---
+### Dịch vụ Ngoại hối là gì?
+Dịch vụ ngoại hối (Forex - FX) là các nghiệp vụ liên quan đến việc mua, bán, và chuyển đổi các loại tiền tệ của quốc gia khác (gọi là ngoại tệ). Ngân hàng ABC cung cấp dịch vụ này cho các khách hàng cá nhân có nhu- cầu hợp pháp.
+
+### Các loại ngoại tệ phổ biến được giao dịch
+- Đô la Mỹ (USD)
+- Euro (EUR)
+- Bảng Anh (GBP)
+- Yên Nhật (JPY)
+- Đô la Úc (AUD)
+- Đô la Singapore (SGD)
+- Đô la Canada (CAD)
+- Franc Thụy Sĩ (CHF)
+- Và một số loại tiền tệ khác.
+
+## 2. GIAO DỊCH NGOẠI TỆ TIỀN MẶT
+---
+### Địa điểm giao dịch
+- Các giao dịch mua/bán ngoại tệ tiền mặt được thực hiện tại các chi nhánh và phòng giao dịch được cấp phép của Ngân hàng ABC trên toàn quốc.
+
+### Mua Ngoại tệ Tiền mặt (Từ VNĐ sang Ngoại tệ)
+- **Mục đích:** Theo quy định của Ngân hàng Nhà nước, công dân chỉ được mua ngoại tệ tiền mặt cho các mục đích hợp pháp như: đi du lịch, công tác, học tập, chữa bệnh ở nước ngoài.
+- **Hồ sơ yêu cầu:**
+    + Căn cước công dân hoặc Hộ chiếu còn hiệu lực.
+    + Các giấy tờ chứng minh mục đích sử dụng ngoại tệ: vé máy bay, booking khách sạn (đối với du lịch); giấy báo nhập học, thông báo học phí (đối với du học); giấy tiếp nhận khám chữa bệnh của cơ sở y tế nước ngoài.
+- **Tỷ giá áp dụng:** Ngân hàng sẽ áp dụng **Tỷ giá Bán** tại thời điểm giao dịch.
+
+### Bán Ngoại tệ Tiền mặt (Từ Ngoại tệ sang VNĐ)
+- **Mục đích:** Khách hàng có thể bán ngoại tệ tiền mặt lấy Việt Nam Đồng mà không bị giới hạn mục đích.
+- **Hồ sơ yêu cầu:** Căn cước công dân hoặc Hộ chiếu còn hiệu lực.
+- **Tỷ giá áp dụng:** Ngân hàng sẽ áp dụng **Tỷ giá Mua Tiền mặt** tại thời điểm giao dịch.
+
+## 3. GIAO DỊCH NGOẠI TỆ CHUYỂN KHOẢN
+---
+### Tài khoản Ngoại tệ
+- Khách hàng có thể mở tài khoản thanh toán bằng ngoại tệ (phổ biến nhất là USD) tại Ngân hàng ABC để nhận lương, kiều hối hoặc các nguồn thu hợp pháp khác bằng ngoại tệ.
+
+### Mua/Bán Chuyển khoản
+- Khách hàng có thể dễ dàng bán ngoại tệ từ tài khoản ngoại tệ của mình sang tài khoản VNĐ thông qua ứng dụng ABC Mobile Banking hoặc tại quầy.
+- Tỷ giá áp dụng cho giao dịch này là **Tỷ giá Mua Chuyển khoản**.
+- Việc mua ngoại tệ bằng hình thức chuyển khoản cũng cần chứng minh mục đích tương tự như mua ngoại tệ tiền mặt.
+
+## 4. HƯỚNG DẪN ĐỌC BẢNG TỶ GIÁ
+---
+Bảng tỷ giá của ngân hàng thường có các cột sau:
+- **Mã NT:** Mã của loại ngoại tệ (ví dụ: USD).
+- **Mua Tiền mặt:** Là giá ngân hàng trả cho bạn khi bạn bán ngoại tệ TIỀN MẶT cho ngân hàng.
+- **Mua Chuyển khoản:** Là giá ngân hàng trả cho bạn khi bạn bán ngoại tệ từ tài khoản của bạn cho ngân hàng. Tỷ giá này thường cao hơn Mua Tiền mặt.
+- **Bán:** Là giá ngân hàng bán ngoại tệ cho bạn (áp dụng cho cả tiền mặt và chuyển khoản). Tỷ giá này luôn là cao nhất.
+
+**Ví dụ:**
+- Bạn có 100 USD tiền mặt và muốn đổi sang VNĐ -> Ngân hàng sẽ áp dụng tỷ giá ở cột "Mua Tiền mặt".
+- Bạn muốn mua 100 USD để chuẩn bị đi du lịch -> Ngân hàng sẽ áp dụng tỷ giá ở cột "Bán".
+
+## 5. LƯU Ý QUAN TRỌNG
+---
+- Tỷ giá hối đoái biến động liên tục trong ngày theo thị trường. Tỷ giá được niêm yết có thể thay đổi tại thời điểm bạn thực hiện giao dịch.
