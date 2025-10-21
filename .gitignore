@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+venv3128/
+.env
+build/
+dist/
+*.spec
+chroma_db/
+chroma_db_local/
+vector_db_faiss/
+vectorstore/
+.vscode/
+.idea/
